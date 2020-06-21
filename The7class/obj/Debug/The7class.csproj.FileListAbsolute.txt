@@ -1,0 +1,10 @@
+E:\own\C#课程\The7class\The7class\bin\Debug\The7class.exe.config
+E:\own\C#课程\The7class\The7class\bin\Debug\The7class.exe
+E:\own\C#课程\The7class\The7class\bin\Debug\The7class.pdb
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.csprojAssemblyReference.cache
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.Form1.resources
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.Properties.Resources.resources
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.csproj.GenerateResource.cache
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.exe
+E:\own\C#课程\The7class\The7class\obj\Debug\The7class.pdb
